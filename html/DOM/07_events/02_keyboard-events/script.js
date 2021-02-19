@@ -5,5 +5,5 @@ input.onkeydown = function() {
     console.log('down')
 }
 input.onkeyup = function() {
-    console.log('up)
+    console.log('up')
 }
