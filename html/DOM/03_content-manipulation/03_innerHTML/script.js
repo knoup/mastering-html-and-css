@@ -1,5 +1,5 @@
 // Manipulando conteúdo
-// textContent
+// textHTML
 const element = document.querySelector('h1')
 
 element.textContent = "Hello, Dev!"
